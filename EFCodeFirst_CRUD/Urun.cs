@@ -135,5 +135,10 @@ namespace EFCodeFirst_CRUD
                 }
             }
         }
+
+        private void btnKategori_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

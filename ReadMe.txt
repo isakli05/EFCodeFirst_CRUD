@@ -3,7 +3,7 @@
 
 References=>EntityFramework.
 
-NOT**:Eğer Enum ile Statüler gösterilmeyecek ise Enum klasörü tamamen atlanabilir.Base içerisine property eklenmemeli.
+NOT**:Eğer Enum ile Statüler gösterilmeyecek ise Enum klasörü tamamen atlanabilir.BaseEntity içerisine status property'si eklenmemeli.
 
 1)Solution içerisine C# Library Eklenir.
 2)Context,Entity,Enum,Map klasörleri açılır.
@@ -17,6 +17,8 @@ Not:CategoryMap içerisindeki ilişkiyi gösteren property gerekli değildir. Di
 6)Context Klasörü içerisine ProjectContext açılır. OnModelCreating metodu override edilerek yazmış olduğumuz map sınıfları ayarlara eklenir.
 6.1)DbSetler açılır.
 7)enable-migrations veya -enableAutomaticMigrations ile console üzerinden migrate ediyoruz. Update-database yapıyoruz.
-Model projesini forms içeren projeye referans vermeyi unutmayınız.
+*Model projesini forms içeren projeye referans vermeyi unutmayınız.
+Not:Migrations klasörü enable-migrations işleminden sonra otomatik açılacaktır.
+ AutomaticMigrationsEnabled = true; olması update-database komutu için gereklidir.
 
 

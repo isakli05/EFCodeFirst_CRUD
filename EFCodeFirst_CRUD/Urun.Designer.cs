@@ -35,24 +35,24 @@
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnKategori = new System.Windows.Forms.Button();
             this.btnGuncelle = new System.Windows.Forms.Button();
             this.btnKaydet = new System.Windows.Forms.Button();
             this.nmrFiyat = new System.Windows.Forms.NumericUpDown();
             this.nmrStokAdet = new System.Windows.Forms.NumericUpDown();
+            this.txtBirim = new System.Windows.Forms.TextBox();
             this.txtAd = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cmbKategoriler = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.güncelleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.silToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.label5 = new System.Windows.Forms.Label();
-            this.txtBirim = new System.Windows.Forms.TextBox();
-            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nmrFiyat)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nmrStokAdet)).BeginInit();
@@ -121,6 +121,11 @@
             this.columnHeader4.Text = "Fiyat";
             this.columnHeader4.Width = 145;
             // 
+            // columnHeader6
+            // 
+            this.columnHeader6.Text = "Birim";
+            this.columnHeader6.Width = 135;
+            // 
             // columnHeader5
             // 
             this.columnHeader5.Text = "Kategori Ad";
@@ -134,6 +139,7 @@
             this.btnKategori.TabIndex = 4;
             this.btnKategori.Text = "Kategori Sayfasına Git";
             this.btnKategori.UseVisualStyleBackColor = true;
+            this.btnKategori.Click += new System.EventHandler(this.btnKategori_Click);
             // 
             // btnGuncelle
             // 
@@ -169,6 +175,13 @@
             this.nmrStokAdet.Size = new System.Drawing.Size(257, 32);
             this.nmrStokAdet.TabIndex = 3;
             // 
+            // txtBirim
+            // 
+            this.txtBirim.Location = new System.Drawing.Point(187, 142);
+            this.txtBirim.Name = "txtBirim";
+            this.txtBirim.Size = new System.Drawing.Size(257, 32);
+            this.txtBirim.TabIndex = 2;
+            // 
             // txtAd
             // 
             this.txtAd.Location = new System.Drawing.Point(187, 96);
@@ -201,6 +214,15 @@
             this.label3.TabIndex = 0;
             this.label3.Text = "Stok Adet:";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label5
+            // 
+            this.label5.Location = new System.Drawing.Point(21, 145);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(160, 23);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Ürün Birimi:";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label2
             // 
@@ -241,28 +263,6 @@
             this.silToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
             this.silToolStripMenuItem.Text = "Sil";
             this.silToolStripMenuItem.Click += new System.EventHandler(this.silToolStripMenuItem_Click);
-            // 
-            // label5
-            // 
-            this.label5.Location = new System.Drawing.Point(21, 145);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(160, 23);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "Ürün Birimi:";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // txtBirim
-            // 
-            this.txtBirim.Location = new System.Drawing.Point(187, 142);
-            this.txtBirim.Name = "txtBirim";
-            this.txtBirim.Size = new System.Drawing.Size(257, 32);
-            this.txtBirim.TabIndex = 2;
-            // 
-            // columnHeader6
-            // 
-            this.columnHeader6.DisplayIndex = 5;
-            this.columnHeader6.Text = "Birim";
-            this.columnHeader6.Width = 135;
             // 
             // Urun
             // 

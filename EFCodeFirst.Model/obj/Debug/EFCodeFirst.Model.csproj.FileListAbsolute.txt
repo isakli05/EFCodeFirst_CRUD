@@ -1,0 +1,10 @@
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EFCodeFirst.Model.dll.config
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EFCodeFirst.Model.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EFCodeFirst.Model.pdb
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EntityFramework.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EntityFramework.xml
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\obj\Debug\EFCodeFirst.Model.csprojResolveAssemblyReference.cache
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\obj\Debug\EFCodeFirst.Model.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst.Model\obj\Debug\EFCodeFirst.Model.pdb

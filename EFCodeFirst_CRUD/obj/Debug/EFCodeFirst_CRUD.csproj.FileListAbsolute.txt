@@ -1,0 +1,1 @@
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EFCodeFirst_CRUD.exe.config

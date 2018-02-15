@@ -1,0 +1,16 @@
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EFCodeFirst_CRUD.exe.config
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EFCodeFirst_CRUD.exe
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EFCodeFirst_CRUD.pdb
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst_CRUD.Properties.Resources.resources
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst.csproj.GenerateResource.Cache
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst_CRUD.exe
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst_CRUD.pdb
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst_CRUD.Kategori.resources
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EFCodeFirst.Model.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EntityFramework.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EFCodeFirst.Model.pdb
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EntityFramework.xml
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cn_og\documents\visual studio 2015\Projects\EFCodeFirst_CRUD\EFCodeFirst_CRUD\obj\Debug\EFCodeFirst_CRUD.Urun.resources
